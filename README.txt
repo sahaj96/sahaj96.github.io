@@ -1,8 +1,5 @@
-Big Picture by HTML5 UP
 
 Free for personal and commercial use under the JUST INFORM ME lincese.
-
-
 
 So I've been on a single page kick as of late, partly because I'm lazy, but
 mostly because they kick ass for experimentation. In this case, Big Picture
